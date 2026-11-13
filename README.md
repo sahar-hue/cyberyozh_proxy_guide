@@ -48,7 +48,7 @@ For projects that require mobile network connections, explore [mobile proxies](h
 
 Visit [CyberYozh](https://app.cyberyozh.com/) to explore its proxy services and features.
 
-Sahar:
+
 <p align="center">
 <img src="cyberyozh-github-banner-1280x640.png"
 alt="CyberYozh Proxy Solutions"
