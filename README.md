@@ -54,7 +54,6 @@ Visit [CyberYozh](https://app.cyberyozh.com/) to explore its proxy services and 
 alt="CyberYozh Proxy Solutions"
 width="700">
 </p>
- Explore CyberYozh Proxy Solutions
 
 CyberYozh offers flexible proxy solutions for developers, businesses, and digital professionals.
 
