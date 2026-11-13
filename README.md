@@ -1,2 +1,31 @@
-# cyberyozh_proxy_guide
-CyberYozh App provides mobile 4G/5G, residential, ISP, and datacenter proxies for web scraping, SEO monitoring, research, and automation. It also offers Android cloud phones, SMS activation, virtual cards, and fraud-risk checking tools. The platform supports API access, IP rotation, and geographic targeting.
+# CyberYozh App
+
+CyberYozh App provides proxy infrastructure and digital tools for developers, businesses, and automation teams.
+
+## Our Services
+
+- **Mobile Proxies:** 4G/5G/LTE proxies with IP rotation and unlimited traffic options.
+- **Residential Proxies:** Access to 100M+ residential IPs across 195+ countries.
+- **ISP Proxies:** Static residential IPs for stable connections.
+- **Datacenter Proxies:** Proxy solutions for data collection and automation.
+- **Android Cloud Phones:** Cloud-based Android devices for app testing and remote device management.
+- **SMS Activation:** Virtual numbers for receiving verification codes.
+- **Virtual Cards & Risk Checks:** Tools for online payments and checking IP, phone, and card risks.
+
+## Use Cases
+
+Web scraping, SEO monitoring, market research, browser automation, geographic testing, and social media management.
+
+## Technical Features
+
+- HTTP/HTTPS and SOCKS5 support
+- REST API access
+- IP rotation and sticky sessions
+- Geographic targeting
+- Integration with Selenium, Playwright, Puppeteer, and Scrapy
+
+## Get Started
+
+Explore available proxy services and digital tools on the official CyberYozh App website.
+
+**Website:** https://app.cyberyozh.com/
