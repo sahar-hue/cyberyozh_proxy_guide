@@ -29,7 +29,7 @@ Web scraping, SEO monitoring, market research, browser automation, geographic te
 Explore available proxy services and digital tools on the official CyberYozh App website.
 
 **Website:** https://app.cyberyozh.com/
-Sahar:
+
 # CyberYozh Proxy Solutions
 
 CyberYozh provides proxy solutions for developers, businesses, and digital professionals who need reliable IP connectivity and flexible geographic targeting.
